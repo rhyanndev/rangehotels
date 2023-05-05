@@ -10,3 +10,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JSON
 
+## Acesso a aplicação: 
+<a href="https://rangehotels-rust.vercel.app/" target="_blank">Range Hotels</a>
